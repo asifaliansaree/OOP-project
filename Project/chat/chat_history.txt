@@ -1,0 +1,6 @@
+[2025-05-01T23:38:15.527936700] Dr.Habib: hello
+[2025-05-01T23:38:28.495159700] Patient Ali: hi Dr
+[2025-05-01T23:38:47.668058100] Dr.Habib: how is your feeling ?
+[2025-05-01T23:39:08.392704800] Patient Ali: today I'm feeling well
+[2025-05-01T23:39:31.219384900] Dr.Habib: it very good
+[2025-05-01T23:39:40.276034100] Patient Ali: yeah thanks
